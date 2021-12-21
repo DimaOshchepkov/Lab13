@@ -1,0 +1,4 @@
+﻿  Lab13.cpp
+C:\Users\odo20\source\repos\Lab13\Lab13\Lab13.cpp(50,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\odo20\source\repos\Lab13\Lab13\Lab13.cpp(51,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Lab13.vcxproj -> C:\Users\odo20\source\repos\Lab13\x64\Debug\Lab13.exe
